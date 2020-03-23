@@ -10,4 +10,7 @@ since 2020-03-16
 * Keras
 * OpenCV
 
-The end of the road : Practicing about Computer Vision Programming.
+### IDE : 
+* VScode
+
+The end of the road : Practicing about computer vision programming.
